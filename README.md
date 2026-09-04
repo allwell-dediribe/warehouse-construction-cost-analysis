@@ -1,6 +1,6 @@
-# 🏗️ Warehouse Construction Project Cost Analysis Dashboard
+# Warehouse Construction Project Cost Analysis Dashboard
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes the financial performance of a warehouse construction project to identify cost drivers, evaluate budget performance, and provide insights that support better project management decisions.
 
@@ -10,7 +10,7 @@ The analysis was performed using **Microsoft Excel**, utilizing PivotTables, Piv
 
 ---
 
-# 🎯 Business Objectives
+# Business Objectives
 
 The analysis aimed to answer key business questions:
 
@@ -26,7 +26,7 @@ The analysis aimed to answer key business questions:
 
 ---
 
-# 📂 Dataset Description
+# Dataset Description
 
 The dataset represents a warehouse construction project and contains financial and operational information, including:
 
@@ -49,7 +49,7 @@ The dataset was structured to simulate a real-world construction cost tracking s
 
 ---
 
-# 🧹 Data Cleaning & Preparation
+# Data Cleaning & Preparation
 
 Before analysis, the dataset was prepared to ensure accuracy and consistency.
 
@@ -68,7 +68,7 @@ The cleaned dataset was then used for PivotTable analysis and dashboard developm
 
 ---
 
-# 🛠️ Tools Used
+# Tools Used
 
 | Tool | Purpose |
 |---|---|
@@ -80,7 +80,7 @@ The cleaned dataset was then used for PivotTable analysis and dashboard developm
 
 ---
 
-# 📊 Dashboard Features
+# Dashboard Features
 
 The interactive dashboard provides an executive overview of project performance.
 
@@ -103,7 +103,7 @@ The interactive dashboard provides an executive overview of project performance.
 
 ---
 
-# 📈 Dashboard Analysis
+# Dashboard Analysis
 
 The dashboard includes:
 
@@ -161,7 +161,7 @@ Determine whether additional funding is required.
 
 ---
 
-# 🔍 Key Insights
+# Key Insights
 
 ## 1. Block Work Was the Largest Cost Driver
 
@@ -193,7 +193,7 @@ Supplier analysis highlighted the need for stronger procurement evaluation and c
 
 ---
 
-# 💡 Recommendations
+# Recommendations
 
 Based on the findings:
 
@@ -206,7 +206,7 @@ Based on the findings:
 
 ---
 
-# 📌 Business Impact
+# Business Impact
 
 This analysis provides management with visibility into:
 
@@ -219,27 +219,23 @@ The dashboard transforms raw construction cost data into actionable insights tha
 
 ---
 
-# 📁 Project Structure
-Warehouse-Construction-Cost-Analysis/
+# Project Structure
+warehouse-construction-cost-analysis/
 │
 ├── README.md
-│
 ├── Dataset/
-│ └── construction_project_cost_data.xlsx
-│
+│   └── construction_cost_data.xlsx
 ├── Dashboard/
-│ └── warehouse_cost_dashboard.xlsx
-│
-├── Images/
-│ └── dashboard_screenshot.png
-│
-└── Report/
-└── project_analysis_report.pdf
+│   └── construction_cost_dashboard.xlsx
+├── Report/
+│   └── project_report.pdf
+└── Images/
+    └── dashboard_screenshot.png
 
 
 ---
 
-# 🚀 Skills Demonstrated
+# Skills Demonstrated
 
 - Data Cleaning
 - Excel Analytics
@@ -253,8 +249,8 @@ Warehouse-Construction-Cost-Analysis/
 
 ---
 
-# 👤 Author
+# Author
 
 **Allwell Dediribe**
 
-Aspiring Data Analyst specializing in Excel analytics, business intelligence, and data-driven decision making.
+Data Analyst specializing in Excel analytics, business intelligence, and data-driven decision making.
