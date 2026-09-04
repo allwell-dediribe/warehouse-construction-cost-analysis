@@ -223,8 +223,6 @@ The dashboard transforms raw construction cost data into actionable insights tha
 warehouse-construction-cost-analysis/
 │
 ├── README.md
-├── Dataset/
-│   └── construction_cost_data.xlsx
 ├── Dashboard/
 │   └── construction_cost_dashboard.xlsx
 ├── Report/
