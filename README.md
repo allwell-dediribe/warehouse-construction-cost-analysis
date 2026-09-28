@@ -165,7 +165,7 @@ Determine whether additional funding is required.
 
 ## 1. Block Work Was the Largest Cost Driver
 
-Block work consumed a significant portion of the project budget and contributed heavily to early budget depletion.
+Block work consumed a significant portion of the project budget by accounting for 58% of the already spent #70M and contributed heavily to early budget depletion.
 
 ---
 
